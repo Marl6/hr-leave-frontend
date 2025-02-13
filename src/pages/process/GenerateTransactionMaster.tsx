@@ -9,7 +9,7 @@ const GenerateTransactionMaster = () => {
       <div className="bg-white p-6 rounded-lg shadow-sm">
         <div className="flex justify-between items-center mb-4">
           <div className="text-lg font-medium">
-            Items Lgbggfbfgbf
+            Items Lgbggfbfgbfssss
           </div>
           <Space size="middle">
             <Input
